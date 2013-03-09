@@ -19,3 +19,9 @@ $(TARGET).so: $(TARGET).o
 $(TARGET).o: $(TARGET).C
 	g++ -I$(PYTHON) -I$(BOOST_INC) -c $(TARGET).C
 
+test:
+	g++ -o test test.cpp trie.h
+
+clean:
+	rm *.o *.so test
+

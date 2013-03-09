@@ -10,8 +10,6 @@
  *       Revision:  none
  *       Compiler:  gcc
  *
- *         Author:  Qijiong Jiang (Rabby), Qijiongjiang1@hotmail.com
- *        Company:  NULL
  *
  * =====================================================================================
  */
