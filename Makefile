@@ -1,5 +1,4 @@
 # location of the Python header files
-
 PYTHON = /usr/include/python2.6/
 
 # location of the Boost Python include files and library
